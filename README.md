@@ -2,6 +2,9 @@
 
 Example codebase for Medium article.
 
+## Requirements
+You need NodeJS and Vite installed globally.
+
 ## To run build (in terminal)
 
 - `cd babylon-vite-example`
